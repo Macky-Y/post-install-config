@@ -259,67 +259,45 @@ After saving the changes, we should see our 3 SLAs.
 <img src="https://i.imgur.com/wU9dA0l.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-
-
-
-
-
-
-
-
-
-
+<h4>Configure Help Topics</h4>
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+We use help topics to determine what kind of problem the users are facing. This will make sense once we created and used this for later. Follow these steps to make our Help Topics.
 </p>
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/BarSzBr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/0IJebq9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-
-
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/xTXWH8k.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+We should be redirected to this page.  
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Ujtcv98.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
+-<b> Repeat the steps to create 3 more Help Topics. Use these as your help topics.</b>
+  - Personal Computer Issues
+  - Equipment Request
+  - Password Reset
+
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Once done it should look like this.
 </p>
-<br />
+
+<p>
+<img src="https://i.imgur.com/KR7e4Ds.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>  
+
+<p>
+Once done, we are done in post install configuration. Refer to this <a href="">repository</a> to learn <ins>Ticket Lifecycle Examples</ins>.
+</p>
