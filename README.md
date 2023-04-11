@@ -228,7 +228,7 @@ Create another user using the same steps. After you finished creating another us
 <h4>Configure SLA (Service Level Agreement)</h4>
 
 <p>
-Setup our SLA (NOTE: SLA depends on the company so we are just using some examples here). Follow these steps for creating SLA.
+Setup our SLA (NOTE: SLA depends on the company so we are just using some examples here). SLAs are guidelines of the company for how long you can fix the tickets based on their severity. Follow these steps for creating SLA.
 </p>
 
 <p>
