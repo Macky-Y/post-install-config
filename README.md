@@ -299,5 +299,5 @@ Once done it should look like this.
 </p>  
 
 <p>
-Once done, we are done in post install configuration. Refer to this <a href="">repository</a> to learn <ins>Ticket Lifecycle Examples</ins>.
+Once done, we are done in post install configuration. Refer to this <a href="https://github.com/Macky-Y/ticket-lifecycle">repository</a> to learn <ins>Ticket Lifecycle Examples</ins>.
 </p>
